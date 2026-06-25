@@ -1,28 +1,46 @@
 # Hey there! 👋
 
-[cite_start]I'm **Jishnu Satapathy**, an aspiring aerospace engineer and full-stack web developer based in Minnesota, US[cite: 19, 20, 26]. 
+I'm **Jishnu**, an aspiring aerospace engineer based in Minneapolis, MN.
 
-[cite_start]I build things that have to actually work—whether that means writing clean web code, designing scalable sites, or diving into the orbital math behind why a rocket doesn't fall out of the sky[cite: 22]. [cite_start]I love turning complex data and ideas into highly functional, shipped projects[cite: 22].
-
-### 🚀 What I'm currently working on:
-* [cite_start]**Engineering & Research Intern** at *Proxima Report*, analyzing orbital mechanics, propulsion, and astrophysics datasets[cite: 24, 39].
-* [cite_start]**Co-Founder** of *AXS Creations*, engineering custom full-stack websites for small businesses (shipped 20+ client sites in 2 months!)[cite: 20, 26, 27].
-* [cite_start]**Co-President** of *Meals Matter*, managing logistics and operations for a local nonprofit[cite: 20, 51].
-* [cite_start]**Event Leader** for *Science Olympiad*, directing the Electric Vehicle and Hovercraft build teams[cite: 28, 73, 75].
-
-### 🛠️ My Tool Stack & Skills:
-* [cite_start]**Languages & Web Dev:** JavaScript, HTML, CSS, Full-Stack Development [cite: 26, 47]
-* [cite_start]**Technical Depth:** Aerospace Systems Engineering, Data Analysis, Orbital Mechanics [cite: 24, 41]
-* [cite_start]**Advanced Coursework:** AP Physics C, Calculus 3 & 4, Computer Science [cite: 31]
-
-### 📫 How to reach me:
-* [cite_start]Connect with me on [LinkedIn](https://www.linkedin.com/in/jishnu-satapathy08) [cite: 3]
-* [cite_start]Shoot me an email at `jishnu.satapathy@icloud.com` [cite: 2]
+I build things that have to actually work — orbital math, full-stack websites, and everything in between.
 
 ---
 
-### Fun Facts:
-* [cite_start]🚀 The standard I build by is *"does it actually fly,"* not *"does it look good on paper."* [cite: 28]
-* [cite_start]📈 I placed 6th nationally in a 30-state research and analysis competition with BPA[cite: 29, 30, 84, 85].
-* [cite_start]🗺️ **Languages:** I speak English, Hindi, Oriya, and professional working Chinese[cite: 10, 11].
-* [cite_start]📚 I have tutored over 3,000+ students in AP Macro and Microeconomics[cite: 90].
+### What I'm up to
+
+- Engineering & Research Intern @ **Proxima Report** — analyzing orbital mechanics, propulsion, and astrophysics data for 10,000+ readers across 100+ countries.
+- Co-Founder @ **AXS Creations** — shipping full-stack websites for small businesses (20+ launches, 25% avg load time improvement).
+- Summer Intern @ **Learner Labs** (SAT Prep Quest) — helping students get the 1600 that they want.
+- Co-President @ **Meals Matter** — gathered and donated 100,000+ lbs of food and raised $20k+ in donations,
+
+---
+
+### 🛠 Tools & Stack
+
+**Code:** JavaScript · HTML · CSS · React *(learning)*  
+**Domains:** Systems engineering · Orbital mechanics · Web development  
+**Coursework:** AP Physics C · AP Chemistry · Calc 3 & 4 · CS 
+
+---
+
+### 🏆 A few highlights
+
+- 96% first-submission editorial approval rate at Proxima Report
+- 6th nationally in BPA Administrative Support Research Project (~30 states)
+- 2x Regional 1st place in Science Olympiad (Astronomy)
+- President's Volunteer Service Award — Gold & Outstanding
+
+---
+
+### ✉️ Reach me
+
+LinkedIn: www.linkedin.com/in/jishnu-satapathy08
+Email: satap.jishi08@gmail.com
+
+---
+
+### Fun Facts
+
+- I am addicted to Photography!
+- I love watching sports, wether it be Cricket, American Football, Basketball, or Soccer.
+- Currently learning how to become an expert in cooking food, through baking or savoury dishes.
