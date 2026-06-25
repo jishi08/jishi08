@@ -15,7 +15,7 @@ I build things that have to actually work — orbital math, full-stack websites,
 
 ---
 
-### 🛠 Tools & Stack
+### Tools & Stack
 
 **Code:** JavaScript · HTML · CSS · React *(learning)*  
 **Domains:** Systems engineering · Orbital mechanics · Web development  
@@ -23,7 +23,7 @@ I build things that have to actually work — orbital math, full-stack websites,
 
 ---
 
-### 🏆 A few highlights
+### A few highlights
 
 - 96% first-submission editorial approval rate at Proxima Report
 - 6th nationally in BPA Administrative Support Research Project (~30 states)
@@ -34,8 +34,8 @@ I build things that have to actually work — orbital math, full-stack websites,
 
 ### ✉️ Reach me
 
-LinkedIn: www.linkedin.com/in/jishnu-satapathy08
-Email: satap.jishi08@gmail.com
+- LinkedIn: www.linkedin.com/in/jishnu-satapathy08
+- Email: satap.jishi08@gmail.com
 
 ---
 
